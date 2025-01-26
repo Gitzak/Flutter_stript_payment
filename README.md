@@ -1,5 +1,7 @@
 # stripe_test_app
 
+![Screenshot 2025-01-26 101129](https://github.com/user-attachments/assets/8f3ff537-6f80-4709-8292-b9ad7ac283ae)
+
 A new Flutter project.
 
 ## Getting Started
